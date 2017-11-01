@@ -1,0 +1,36 @@
+body{
+	background-color: rgb(184, 198, 193);
+	background-image: url("TechBG5.jpg");
+	background-position: center; 
+}
+h1{
+	text-align: center;
+	color: black;
+	font-style: italic;
+	font-size:60px;
+	text-shadow: 8px 8px 16px rgb(74, 153, 125);
+}
+h2{
+	text-align: center;
+
+}
+img{
+	width: 300px;
+	padding: 50px;
+}
+p{
+	text-align: center;
+	margin: auto;
+	width: 70%;
+}
+p a img{
+	width: 300px;
+	margin: auto;
+	float:left;
+
+}
+a img{
+
+	width: 300px;
+	margin: auto;
+}
